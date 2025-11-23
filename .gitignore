@@ -2,6 +2,9 @@
 node_modules/
 package-lock.json
 
+# Submodules (not needed for website)
+figma-mcp-server/
+
 # Build outputs
 dist/
 build/
